@@ -1,6 +1,19 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Lucas, Data Analyst from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="13"/> <b>Brazil</b>. </p>
+<p>Welcome to my page! </br> I'm Vi4Na, Data Analyst from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="13"/> <b>Brazil</b>. </p>
+
+- 👀 I’m interested in interested in experience in the job market as a data analyst
+- 🌱 I’m currently learning Data analysis through the "EBAC – Escola Britânica de Artes Criativas e Tecnologia"
+- 💞️ I’m looking to collaborate on the company grow with my analytical thinking
+- 😄 About me:
+- I am dedicated and like to deliver results.
+- I believe I am capable of analyzing scenarios and proposing improvements/solutions to improve the company's processes.
+- I have a proactive, dynamic profile, good logical, cooperative and analytical reasoning, focused on improving and standardizing processes.
+- 
+-  📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-lucasviana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasviana-dados/)](https://www.linkedin.com/in/lucasviana-dados/)
+[![Instagram Badge](https://img.shields.io/badge/-@lrcviana_-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lrcviana_/)](https://www.instagram.com/lrcviana_/)
+[![Gmail Badge](https://img.shields.io/badge/-lvianarcosta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lvianarcosta@gmail.com)](mailto:lvianarcosta@gmail.com)
 
 <h3>I have knowledge in</h3>
 <p>
