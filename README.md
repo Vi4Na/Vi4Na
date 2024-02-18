@@ -12,6 +12,7 @@
 - I have a proactive, dynamic profile, good logical, cooperative and analytical reasoning, focused on improving and standardizing processes.
 
 -  📫 How to reach me:
+  
 [![Linkedin Badge](https://img.shields.io/badge/-lucasviana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasviana-dados/)](https://www.linkedin.com/in/lucasviana-dados/)
 [![Instagram Badge](https://img.shields.io/badge/-@lrcviana_-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lrcviana_/)](https://www.instagram.com/lrcviana_/)
 [![Gmail Badge](https://img.shields.io/badge/-lvianarcosta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lvianarcosta@gmail.com)](mailto:lvianarcosta@gmail.com)
