@@ -32,10 +32,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>COVID Dashboard</b></a></td>   
+      <td><a href=["https://github.com/Vi4Na/Bank-Credit-Data-Analysis"]><b>Credit SQL Data Analysis on Kaggle</b></a></td>   
     </tr>
+	<td><a href=["https://github.com/Vi4Na/COVID-Dashboard"]><b>COVID Dashboard</b></a></td>  
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>HUB Deliveries Project</b></a></td>
+      <td><a href=["https://github.com/Vi4Na/HUB-Deliveries-Data-Analysis"]><b>HUB Deliveries Project</b></a></td>
     </tr>
   </tbody>
 </table>
