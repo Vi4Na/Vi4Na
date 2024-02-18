@@ -2,9 +2,9 @@
 
 <p>Welcome to my page! </br> I'm Vi4Na, Data Analyst from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="13"/> <b>Brazil</b>. </p>
 
-- 👀 I’m interested in interested in experience in the job market as a data analyst
-- 🌱 I’m currently learning Data analysis through the "EBAC – Escola Britânica de Artes Criativas e Tecnologia"
-- 💞️ I’m looking to collaborate on the company grow with my analytical thinking
+- 👀 I’m interested in interested in experience in the job market as a data analyst.
+- 🌱 I’m currently learning Data analysis through the "EBAC – Escola Britânica de Artes Criativas e Tecnologia".
+- 💞️ I’m looking to collaborate on the company grow with my analytical thinking.
   
 - 😄 About me:
 - I am dedicated and like to deliver results.
