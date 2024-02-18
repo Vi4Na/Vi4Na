@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Lucas, Data Analyst from <img src="https://www.flaticon.com/free-icon/flag_10602545?term=brasil&page=1&position=8&origin=search&related_id=10602545" width="13"/> <b>Brazil</b>. </p>
+<p>Welcome to my page! </br> I'm Lucas, Data Analyst from <img src="https://www.flaticon.com/br/icone-gratis/brasil_330167?related_id=330430&origin=search" width="13"/> <b>Brazil</b>. </p>
 <h3>I have knowledge in</h3>
 <p>
   <img alt="Data Analytics" src="https://img.shields.io/badge/Data_Analyst-blue?style=for-the-badge&logo=data_analyst&logoColor=white" />
-  <img alt="Database" src="	https://img.shields.io/badge/Database-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" /> 
+  <img alt="Database" src="https://img.shields.io/badge/Database-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" /> 
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img alt="Pandas" src="	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -38,4 +38,5 @@
     </tr>
   </tbody>
 </table>
+
 
