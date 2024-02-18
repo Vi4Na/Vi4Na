@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Lucas, Data Analyst from <img src="https://www.flaticon.com/br/icone-gratis/brasil_330167?related_id=330430&origin=search" width="13"/> <b>Brazil</b>. </p>
+<p>Welcome to my page! </br> I'm Lucas, Data Analyst from <img src="https://pin.it/18MLUmEMI" width="13"/> <b>Brazil</b>. </p>
 <h3>I have knowledge in</h3>
 <p>
   <img alt="Data Analytics" src="https://img.shields.io/badge/Data_Analyst-blue?style=for-the-badge&logo=data_analyst&logoColor=white" />
