@@ -16,7 +16,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@lrcviana_-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lrcviana_/)](https://www.instagram.com/lrcviana_/)
 [![Gmail Badge](https://img.shields.io/badge/-lvianarcosta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lvianarcosta@gmail.com)](mailto:lvianarcosta@gmail.com)
 
-<h3>I have knowledge in</h3>
+<h3>I have knowledge in:</h3>
 <p>
   <img alt="Data Analytics" src="https://img.shields.io/badge/Data_Analyst-blue?style=for-the-badge&logo=data_analyst&logoColor=white" height="20" />
   <img alt="Database" src="https://img.shields.io/badge/Database-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" height="20" /> 
@@ -28,7 +28,7 @@
   <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="20" />
 </p>
 
-<h3>I have notions of</h3>
+<h3>I have notions of:</h3>
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height="20" />
   <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="20" />
