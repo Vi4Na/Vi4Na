@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in experience in the job market as a data analyst.
 - 🌱 I’m currently learning Data analysis through the "EBAC – Escola Britânica de Artes Criativas e Tecnologia".
-- 💞️ I’m looking to collaborate on the company grow with my analytical thinking.
+- 💞️ I can contribute to the company's growth with my analytical thinking and strategic vision.
   
 - 😄 About me:
 - I am dedicated and like to deliver results.
