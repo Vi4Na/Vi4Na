@@ -49,6 +49,9 @@
     </tr>
   </thead>
   <tbody>
+        <tr>
+      <td><a href="https://github.com/Vi4Na/Data-Pipeline-on-Telegram"><b>Pipeline on Telegram!</b></a></td>   
+    </tr>
     <tr>
       <td><a href="https://github.com/Vi4Na/Bank-Credit-Data-Analysis"><b>Credit SQL Data Analysis on Kaggle</b></a></td>   
     </tr>
