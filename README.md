@@ -1,23 +1,23 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Vi4Na, Data Analyst from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="13"/> <b>Brazil</b>. </p>
+<p>OOlá! </br> Sou Vi4Na, Analista de Dados do <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="13"/> <b>Brasil</b>. </p>
 
-- 👀 I’m interested in experience in the job market as a data analyst.
-- 🌱 I’m currently learning Data analysis through the "EBAC – Escola Britânica de Artes Criativas e Tecnologia".
-- 💞️ I can contribute to the company's growth with my analytical thinking and strategic vision.
+- 👀  Estou interessado em adquirir experiência no mercado de trabalho como analista de dados.
+- 🌱 Atualmente, estou em transição de carreira, formado em análise de dados através do curso profissionalizante da "EBAC – Escola Britânica de Artes Criativas e Tecnologia".
+- 💞️ Posso contribuir para o crescimento da empresa com meu pensamento analítico e visão estratégica.
   
-- 😄 About me:
-- I am dedicated and like to deliver results.
-- I believe I am capable of analyzing scenarios and proposing improvements/solutions to improve the company's processes.
-- I have a proactive, dynamic profile, good logical, cooperative and analytical reasoning, focused on improving and standardizing processes.
+- 😄 Um pouco sobre mim:
+- Sou dedicado e gosto de entregar resultados.
+- Acredito que sou capaz de analisar cenários e propor melhorias/soluções para aprimorar os processos da empresa.
+- Tenho um perfil proativo, dinâmico, bom raciocínio lógico, cooperativo e analítico, focado em melhorar e padronizar processos.
 
--  📫 How to reach me:
+-  📫 Como pode me encontrar:
   
 [![Linkedin Badge](https://img.shields.io/badge/-lucasviana-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasviana-dados/)](https://www.linkedin.com/in/lucasviana-dados/)
 [![Instagram Badge](https://img.shields.io/badge/-@lrcviana_-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/lrcviana_/)](https://www.instagram.com/lrcviana_/)
 [![Gmail Badge](https://img.shields.io/badge/-lvianarcosta-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lvianarcosta@gmail.com)](mailto:lvianarcosta@gmail.com)
 
-<h3>I have knowledge in:</h3>
+<h3>Tenho conhecimentos em:</h3>
 <p>
   <img alt="Data Analytics" src="https://img.shields.io/badge/Data_Analyst-blue?style=for-the-badge&logo=data_analyst&logoColor=white" height="20" />
   <img alt="Database" src="https://img.shields.io/badge/Database-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" height="20" /> 
