@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Bom te ver por aqui!.</h1>
 
-<p>Olá! </br> Sou Vi4Na, Analista de Dados do <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="13"/> <b>Brasil</b>. </p>
+<p>Bem vindo à minha página!</br> Sou Vi4Na, Analista de Dados do <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png" width="13"/> <b>Brasil</b>. </p>
 
 - 👀  Estou interessado em adquirir experiência no mercado de trabalho como analista de dados.
 - 🌱 Atualmente, estou em transição de carreira, formado em análise de dados através do curso profissionalizante da "EBAC – Escola Britânica de Artes Criativas e Tecnologia".
