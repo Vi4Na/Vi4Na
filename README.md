@@ -31,7 +31,7 @@
   <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="20" />
 </p>
 
-<h3>I have notions of:</h3>
+<h3>Tenho noções de:</h3>
 <p>
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height="20" />
   <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="20" />
@@ -41,7 +41,7 @@
   <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" height="20" />
 </p>
 
-<h3>My projects so far</h3>
+<h3>Meus projetos até agora:</h3>
 <table>
   <thead align="center">
     <tr border: none;>
